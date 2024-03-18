@@ -1,0 +1,68 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Uu]nity[Pp]ackage[Mm]anager/
+/Assets/AssetStoreTools*
+/Assets/Plugins*
+/Assets/Gizmos*
+/Assets/Demonstrations*
+
+
+# Environemnt logfile
+*.log
+
+# Visual Studio 2015 cache directory
+.vs/
+
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Unity3D Generated File On Crash Reports
+/UnitySDK/sysinfo.txt
+
+# Builds
+*.apk
+*.unitypackage
+*.app
+*.exe
+*.x86_64
+*.x86
+
+
+# Mac hidden files
+*.DS_Store
+*/.ipynb_checkpoints
+*/.idea
+*.pyc
+*.idea/misc.xml
+*.idea/modules.xml
+*.iml
+*.cache
+*/build/
+*/dist/
+*.egg-info*
+*.eggs*
+*.gitignore.swp
+
+# VSCode hidden files
+*.vscode/
+
+.DS_Store
+.ipynb_checkpoints
+
+Timers.meta
+
